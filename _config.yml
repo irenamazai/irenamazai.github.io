@@ -1,11 +1,13 @@
 title: Irena Mazai # your name (or website title) here
 logo: "/images/logo.png?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
-  First description 
+  A multi-faceted professional with 10  years’ experience in managing multiple projects.
   <br><br>
-  Second description 
+  I work at the intersection of policy, innovation, and government.
   <br><br>
-  <a href="https://www.linkedin.com/in/example/">View My LinkedIn Profile</a> 
+  As an entrepreneurial leader, I thrive in the dynamic environment of hyper-growth companies that have a steep mountain to climb.
+  <br><br>
+  <a href="https://www.linkedin.com/in/irenamazai/">LinkedIn</a> 
   
 theme: jekyll-theme-minimal
 google_analytics: UA-000000-0 # your Google Analytics tracking ID here
