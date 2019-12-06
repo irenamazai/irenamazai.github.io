@@ -13,6 +13,8 @@ if (isAwesome){
   return true
 }
 ```
+
+<img src="images/con10.jpg?raw=true"/>
 For more details see [President of Russia | Events](http://en.kremlin.ru/events/president/news/9818/).
 
 ### 2. Assess assumptions on which statistical inference will be based
