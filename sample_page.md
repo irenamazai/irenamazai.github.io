@@ -27,9 +27,7 @@ The event was largely attended by Internet startups and guests such as Angry Bir
 
 <img src="images/con11.jpg?raw=true"/>
 Steve Wozniak [speech at IV Russian Innovation Convention](https://www.youtube.com/watch?v=cRIX24P_n-E)
-Apple co-founder Steve Wozniakat at [IV Russian Innovation Convention](https://www.themoscowtimes.com/2011/11/29/apple-co-founder-gives-innovation-pep-talk-a11099/)
-<br><br>
-For more details see [Russian Innovation Convention 2011](https://skolkovo-ru.livejournal.com/616415.html)
+Apple co-founder Steve Wozniakat at [IV Russian Innovation Convention](https://www.themoscowtimes.com/2011/11/29/apple-co-founder-gives-innovation-pep-talk-a11099/) For more details see [Russian Innovation Convention 2011](https://skolkovo-ru.livejournal.com/616415.html)
 
 ---
 
