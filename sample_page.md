@@ -35,6 +35,3 @@ For more details see [Russian Innovation Convention 2011](http://en.kremlin.ru/e
 
 For more details see [Russian Innovation Convention 2012](http://sk.ru/foundation/events/december2012/iconvention/)
 
-Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. 
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
