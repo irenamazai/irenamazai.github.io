@@ -4,7 +4,7 @@
 
 ### Big Data Systems  Development, Implementation and Management
 <br><br>
-Skolkovo Innovation Center
+Skolkovo Innovation Center:
 <br><br>
 [All-Russian Youth Innovation Convent 2010-2012](/sample_page)
 <img src="images/con2015.jpg?raw=true"/>
