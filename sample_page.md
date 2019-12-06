@@ -20,11 +20,12 @@ For more details see [President of Russia | Events](http://en.kremlin.ru/events/
 ### 2. IV Russian Innovation Convention 2011
 
 ```
-Skolkovo’s Technopark, Russia. November 29-30, 2011
+Digital October, Moscow, Russia. November 29-30, 2011
 ```
 
 <img src="images/con11.jpg?raw=true"/>
-For more details see [Russian Innovation Convention 2011](http://en.kremlin.ru/events/president/news/9818/)
+[Steve Wozniak speech at the opening of the 4th Russian Innovation Convention](https://www.youtube.com/watch?v=cRIX24P_n-E)
+For more details see [Russian Innovation Convention 2011](https://www.themoscowtimes.com/2011/11/29/apple-co-founder-gives-innovation-pep-talk-a11099/)
 
 ---
 
