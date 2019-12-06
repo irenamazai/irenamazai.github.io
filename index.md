@@ -9,7 +9,7 @@
 
 ---
 Government:[Automatic Information System - "Russian Youth" (2013-2016)](https://myrosmol.ru/)
-<img src="images/ais3.jpg?raw=true"/>
+<img src="images/ais4.jpg?raw=true"/>
 
 ---
 [Transportation : BRiZ eScooters (2018-present)](/pdf/sample_presentation.pdf)
