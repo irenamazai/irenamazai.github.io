@@ -2,7 +2,7 @@
 
 **Project description:** The Convention for Innovations is an annual all-Russia event designed to stimulate innovative scientific activity and formation of a community of young Russian science professionals. The National Innovation Prize is awarded during the event for achievements in science and support of innovations. Specialists with significant accomplishments and influence in their field of expertise or innovation centers such as universities, technology clusters, R&D institutions, commercial organizations can apply. [The Convention has organised annually since 2008.] (https://www.iasp.ws/activities/events/events-overview---old/1st-annual-russian-youth-convention-for-innovations)
 
-### 1. III All-Russian Youth Innovation Convent & Meeting of Commission for Modernisation and Technological Development of Russia’s Economy
+### 1. III Russian Innovation Convention 2010 & Meeting of Commission for Modernisation and Technological Development of Russia’s Economy
 
 SKOLKOVO, Moscow, Russia. December 13–14, 2010
 
