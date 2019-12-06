@@ -6,7 +6,7 @@
 <br><br>
 Skolkovo Innovation Center:
 <br><br>
-[All-Russian Youth Innovation Convent 2010-2012](/sample_page)
+[Russian Innovation Convention 2010-2012](/sample_page)
 <img src="images/con2015.jpg?raw=true"/>
 
 ---
