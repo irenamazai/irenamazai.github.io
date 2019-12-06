@@ -9,11 +9,8 @@
 SKOLKOVO, Moscow, Russia. December 13–14, 2010
 ```
 
-The 3rd All-Russian Youth Innovation Convent had run within the framework of the regular meeting of the Commission for Modernisation and Technological Development of the Russian Economy will be chaired by the President of the Russian Federation Dmitry Medvedev. The Convent’s culmination was the summing up of the results of the Innovation Projects Contest and a ceremony of the Zvorykin Award, the National Innovation Award.
+The 3rd All-Russian Youth Innovation Convent had run within the framework of the regular meeting of the Commission for Modernisation and Technological Development of the Russian Economy will be chaired by the President of the Russian Federation Dmitry Medvedev. The Convent’s culmination was the summing up of the results of the Innovation Projects Contest and a ceremony of the [Zvorykin Award, the National Innovation Award.](http://en.kremlin.ru/events/president/transcripts/9821)
 
-```
-The 3rd All-Russian Youth Innovation Convent had run within the framework of the regular meeting of the Commission for Modernisation and Technological Development of the Russian Economy will be chaired by the President of the Russian Federation Dmitry Medvedev. The Convent’s culmination was the summing up of the results of the Innovation Projects Contest and a ceremony of the Zvorykin Award, the National Innovation Award.
-```
 
 <img src="images/con10.jpg?raw=true"/>
 For more details see [President of Russia | Events](http://en.kremlin.ru/events/president/news/9818/).
@@ -28,6 +25,8 @@ Skolkovo’s Technopark, Russia. November 29-30, 2011
 
 <img src="images/con11.jpg?raw=true"/>
 For more details see [Russian Innovation Convention 2011](http://en.kremlin.ru/events/president/news/9818/)
+
+---
 
 ### 3. V Russian Innovation Convention 2012
 
