@@ -8,10 +8,14 @@
 <img src="images/con2015.jpg?raw=true"/>
 
 ---
-Government:[Automatic Information System - "Russian Youth" (2013-2016)](https://myrosmol.ru/)
+Government:
+<br><br>
+[Automatic Information System - "Russian Youth" (2013-2016)](https://myrosmol.ru/)
 <img src="images/ais4.jpg?raw=true"/>
 
 ---
+Transportation: 
+<br><br>
 [Transportation : BRiZ eScooters (2018-present)](/pdf/sample_presentation.pdf)
 <img src="images/briz8.jpg?raw=true"/>
 
