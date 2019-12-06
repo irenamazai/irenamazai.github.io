@@ -4,15 +4,15 @@
 
 ### Micro Mobility Transportation
 
-[BRiZ eScooters Pitch Deck](/sample_page)
+[BRiZ eScooters 2018 - present](/sample_page)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-[BRiZ eScooters Pitch Deck](/pdf/sample_presentation.pdf)
+[Automatic Information System - "Russian Youth" (2013-2016)](https://myrosmol.ru/)
 <img src="images/briz8.jpg?raw=true"/>
 
 ---
-[Project 3 Title](http://example.com/)
+[BRiZ eScooters (2018-present)](/pdf/sample_presentation.pdf)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
