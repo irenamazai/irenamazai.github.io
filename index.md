@@ -2,7 +2,7 @@
 
 ---
 
-### Micro Mobility Transportation
+### Big Data Systems  Development, Implementation and Management 
 
 [BRiZ eScooters 2018 - present](/sample_page)
 <img src="images/ais2.jpeg?raw=true"/>
@@ -12,7 +12,7 @@
 <img src="images/ais3.jpeg?raw=true"/>
 
 ---
-[BRiZ eScooters (2018-present)](/pdf/sample_presentation.pdf)
+[Transportation : BRiZ eScooters (2018-present)](/pdf/sample_presentation.pdf)
 <img src="images/briz8.jpg?raw=true"/>
 
 ---
