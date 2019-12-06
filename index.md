@@ -5,7 +5,7 @@
 ### Big Data Systems  Development, Implementation and Management 
 
 [All-Russian Youth Innovation Convent 2010 - 2012](/sample_page)
-<img src="images/ais2.jpg?raw=true"/>
+<img src="images/con2015.jpg?raw=true"/>
 
 ---
 Government:[Automatic Information System - "Russian Youth" (2013-2016)](https://myrosmol.ru/)
