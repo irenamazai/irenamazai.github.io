@@ -9,11 +9,11 @@
 
 ---
 [Automatic Information System - "Russian Youth" (2013-2016)](https://myrosmol.ru/)
-<img src="images/briz8.jpg?raw=true"/>
+<img src="images/AIS.jpg?raw=true"/>
 
 ---
 [BRiZ eScooters (2018-present)](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/briz8.jpg?raw=true"/>
 
 ---
 
