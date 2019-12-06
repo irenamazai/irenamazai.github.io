@@ -17,6 +17,8 @@ The 3rd All-Russian Youth Innovation Convent had run within the framework of the
 <img src="images/con10.jpg?raw=true"/>
 For more details see [President of Russia | Events](http://en.kremlin.ru/events/president/news/9818/).
 
+---
+
 ### 2. IV Russian Innovation Convention 2011
 
 ```javascript
@@ -31,7 +33,10 @@ For more details see [Russian Innovation Convention 2011](http://en.kremlin.ru/e
 
 <img src="images/con12-2.jpg?raw=true"/>
 
+---
+
 ### 4. Provide a basis for further data collection through surveys or experiments
 
 For more details see [Russian Innovation Convention 2012](http://sk.ru/foundation/events/december2012/iconvention/)
 
+---
