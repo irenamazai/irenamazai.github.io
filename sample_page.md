@@ -25,7 +25,8 @@ Digital October, Moscow, Russia. November 29-30, 2011
 
 <img src="images/con11.jpg?raw=true"/>
 [Steve Wozniak speech at the opening of the 4th Russian Innovation Convention](https://www.youtube.com/watch?v=cRIX24P_n-E)
-For more details see [Russian Innovation Convention 2011](https://www.themoscowtimes.com/2011/11/29/apple-co-founder-gives-innovation-pep-talk-a11099/)
+[Apple co-founder Steve Wozniak visited IV annual Innovation Convention](https://www.themoscowtimes.com/2011/11/29/apple-co-founder-gives-innovation-pep-talk-a11099/)
+For more details see [Russian Innovation Convention 2011](https://skolkovo-ru.livejournal.com/616415.html)
 
 ---
 
@@ -34,7 +35,7 @@ For more details see [Russian Innovation Convention 2011](https://www.themoscowt
 ```
 HYPERCUBE, Moscow, Russia. December 18–19, 2012
 ```
-V Russian Innovation Convention 2012, со-organized by the Skolkovo’s Technopark, brought more than thousand participants and tens of high profile speakers from the sphere of innovation. The Convention program included sessions and seminars on such issues as globalization of innovations, perspectives of fundamental science, cooperation between Russian development institutions, new methods for R&D integration into business, raising investor capital and if crowd-funding can be an alternative and many other crucial for young innovators subjects. 
+The 5th Russian Innovation Convention 2012, со-organized by the Skolkovo’s Technopark, brought more than thousand participants and tens of high profile speakers from the sphere of innovation. The Convention program included sessions and seminars on such issues as globalization of innovations, perspectives of fundamental science, cooperation between Russian development institutions, new methods for R&D integration into business, raising investor capital and if crowd-funding can be an alternative and many other crucial for young innovators subjects. 
 
 <img src="images/con12-2.jpg?raw=true"/>
 
