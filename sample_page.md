@@ -4,9 +4,11 @@
 
 ### 1. III Russian Innovation Convention 2010 & Meeting of Commission for Modernisation and Technological Development of Russia’s Economy
 
+```
 SKOLKOVO, Moscow, Russia. December 13–14, 2010
+```
 
-Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. 
+The 3rd All-Russian Youth Innovation Convent had run within the framework of the regular meeting of the Commission for Modernisation and Technological Development of the Russian Economy will be chaired by the President of the Russian Federation Dmitry Medvedev. The Convent’s culmination was the summing up of the results of the Innovation Projects Contest and a ceremony of the Zvorykin Award, the National Innovation Award.
 
 ```
 The 3rd All-Russian Youth Innovation Convent had run within the framework of the regular meeting of the Commission for Modernisation and Technological Development of the Russian Economy will be chaired by the President of the Russian Federation Dmitry Medvedev. The Convent’s culmination was the summing up of the results of the Innovation Projects Contest and a ceremony of the Zvorykin Award, the National Innovation Award.
