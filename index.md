@@ -4,7 +4,7 @@
 
 ### Big Data Systems  Development, Implementation and Management 
 
-[BRiZ eScooters 2018 - present](/sample_page)
+[All-Russian Youth Innovation Convent 2010 - 2012](/sample_page)
 <img src="images/ais2.jpg?raw=true"/>
 
 ---
