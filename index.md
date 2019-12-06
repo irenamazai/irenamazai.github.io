@@ -14,6 +14,7 @@ Government:
 <br><br>
 [Automatic Information System - "Russian Youth" (2013-2016)](https://myrosmol.ru/)
 <img src="images/ais4.jpg?raw=true"/>
+[AIS - "Russian Youth"](/pdf/AIS.pdf)
 
 ---
 Transportation: 
