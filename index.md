@@ -5,11 +5,11 @@
 ### Micro Mobility Transportation
 
 [BRiZ eScooters 2018 - present](/sample_page)
-<img src="images/ais.jpeg?raw=true"/>
+<img src="images/ais2.jpeg?raw=true"/>
 
 ---
 [Automatic Information System - "Russian Youth" (2013-2016)](https://myrosmol.ru/)
-<img src="images/AIS.jpeg?raw=true"/>
+<img src="images/ais3.jpeg?raw=true"/>
 
 ---
 [BRiZ eScooters (2018-present)](/pdf/sample_presentation.pdf)
