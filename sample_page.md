@@ -1,6 +1,6 @@
-## This can be your internal website page / project page
+## Annual Russian Youth Convention for Innovations
 
-**Project description:** Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+**Project description:** The Convention for Innovations is an annual all-Russia event designed to stimulate innovative scientific activity and formation of a community of young Russian science professionals. The National Innovation Prize is awarded during the event for achievements in science and support of innovations. Specialists with significant accomplishments and influence in their field of expertise or innovation centers such as universities, technology clusters, R&D institutions, commercial organizations can apply. 
 
 ### 1. Suggest hypotheses about the causes of observed phenomena
 
