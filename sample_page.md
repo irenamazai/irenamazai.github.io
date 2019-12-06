@@ -26,9 +26,8 @@ IV Russian Innovation Convention 2011, со-organized by the Digital October, br
 The event was largely attended by Internet startups and guests such as Angry Birds founder and general director Peter Vesterbaka and Facebook sales director Kevin Colleran, Apple co-founder Steve Wozniak, and others.
 
 <img src="images/con11.jpg?raw=true"/>
-[Steve Wozniak speech at IV Russian Innovation Convention](https://www.youtube.com/watch?v=cRIX24P_n-E)
-<br><br>
-[Apple co-founder Steve Wozniakat IV Russian Innovation Convention](https://www.themoscowtimes.com/2011/11/29/apple-co-founder-gives-innovation-pep-talk-a11099/)
+Steve Wozniak [speech at IV Russian Innovation Convention](https://www.youtube.com/watch?v=cRIX24P_n-E)
+Apple co-founder Steve Wozniakat at [IV Russian Innovation Convention](https://www.themoscowtimes.com/2011/11/29/apple-co-founder-gives-innovation-pep-talk-a11099/)
 <br><br>
 For more details see [Russian Innovation Convention 2011](https://skolkovo-ru.livejournal.com/616415.html)
 
