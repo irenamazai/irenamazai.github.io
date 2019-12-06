@@ -34,12 +34,9 @@ For more details see [Russian Innovation Convention 2011](http://en.kremlin.ru/e
 ```
 HYPERCUBE, Moscow, Russia. December 18–19, 2012
 ```
+V Russian Innovation Convention 2012, со-organized by the Skolkovo’s Technopark, brought more than thousand participants and tens of high profile speakers from the sphere of innovation. The Convention program included sessions and seminars on such issues as globalization of innovations, perspectives of fundamental science, cooperation between Russian development institutions, new methods for R&D integration into business, raising investor capital and if crowd-funding can be an alternative and many other crucial for young innovators subjects. 
 
 <img src="images/con12-2.jpg?raw=true"/>
-
----
-
-### 4. Provide a basis for further data collection through surveys or experiments
 
 For more details see [Russian Innovation Convention 2012](http://sk.ru/foundation/events/december2012/iconvention/)
 
